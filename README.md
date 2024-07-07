@@ -1,5 +1,4 @@
-# Private-repo
-WPS APPLICATION SprayPaint 
+#WPS APPLICATION SprayPaint 
 
 The Spray Paint application is a Windows Presentation Foundation (WPF) tool developed to provide users with an interactive platform for spray painting on images. The application supports features such as image loading, spray painting, color and density adjustments, erasing, and the ability to save changes. This documentation provides a detailed overview of the application's key features, implementation details, challenges faced, and solutions employed.
 
